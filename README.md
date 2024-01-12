@@ -14,9 +14,7 @@ this is line
 This is  next line
 ```
 
-```
-this is from local repo
-```
+
 
 ```
 this is from 2nd local repo
